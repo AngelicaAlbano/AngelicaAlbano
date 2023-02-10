@@ -40,5 +40,5 @@ Sou desenvolvedora Full Stack de aplicações Web com foco no back-end.
 ### Contato
 ---
 
-<a href="https://www.linkedin.com/in/angelica-albano/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white+)</a> 
+<a href="https://www.linkedin.com/in/angelica-albano/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white+)</a>&nbsp;
 <a href="mailTo:eco.angelica@gmail.com">![eco.angelica@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
