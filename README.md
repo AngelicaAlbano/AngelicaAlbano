@@ -36,7 +36,7 @@ Sou desenvolvedora Full Stack de aplicações Web com foco no back-end.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaalbano&layout=compact&hide=scss&hide_border=true&custom_title=Top+Linguagens&theme=graywhite" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelicaalbano&show_icons=true&theme=graywhite&hide_rank=true&hide=issues&card_width=350px&hide_border=true&custom_title=Estatísticas&icon_color=4c71f2&locale=pt-br" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelicaalbano&count_private=true&show_icons=true&theme=graywhite&hide_rank=true&hide=issues&card_width=350px&hide_border=true&custom_title=Estatísticas&icon_color=4c71f2&locale=pt-br" />
 </a>
 
 ### Contato
