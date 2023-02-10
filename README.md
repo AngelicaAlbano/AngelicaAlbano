@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AngelicaAlbano/AngelicaAlbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Sobre 
+---
+Sou desenvolvedora Full Stack de aplicações Web com foco no back-end.
+
+:warning: Atenção: Portfólio em construção! :construction_worker_woman:
+
+- :woman_technologist: Trabalhando com Java 8+ (SpringBoot e Jersey) e Angular (AngularJS e Angular 12+)
+- :books: Estudando e aprofundando conhecimentos nos módulos do Spring, mensageria, microsserviços e cloud
+- :handshake: Disponível para colaborar com projetos
+
+
+### Stacks
+---
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaalbano&layout=compact&hide=scss&hide_border=true&custom_title=Top+Linguagens&theme=graywhite" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelicaalbano&show_icons=true&theme=graywhite&hide_rank=true&hide=issues&card_width=500px&hide_border=true&custom_title=Estatísticas&icon_color=4c71f2&locale=pt-br" />
+</a>
+
+### Contato
+---
+
+<a href="https://www.linkedin.com/in/angelica-albano/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white+)</a> 
+<a href="mailTo:eco.angelica@gmail.com">![eco.angelica@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
