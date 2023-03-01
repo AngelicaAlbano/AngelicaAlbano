@@ -34,7 +34,7 @@ Sou desenvolvedora Full Stack de aplicações Web com foco no back-end.
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
 <br />
 <br />
-<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaalbano&layout=compact&hide=scss&hide_border=true&custom_title=Top+Linguagens&theme=graywhite" />&nbsp;<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=angelicaalbano&count_private=true&show_icons=true&theme=graywhite&hide_rank=true&hide=issues&card_width=350px&hide_border=true&custom_title=Estatísticas&icon_color=4c71f2&locale=pt-br" />
+<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaalbano&layout=compact&hide=scss,html,css&hide_border=true&custom_title=Top+Linguagens&theme=graywhite" />&nbsp;<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=angelicaalbano&count_private=true&show_icons=true&theme=graywhite&hide_rank=true&hide=issues&card_width=350px&hide_border=true&custom_title=Estatísticas&icon_color=4c71f2&locale=pt-br" />
 </div>
 
 ### Contato
