@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Sobre 
 ---
-Sou desenvolvedora web. Comecei atuando como Full Stack e hoje foquei meus estudos e interesses no Back End (principalmente com Java). 
+Sou desenvolvedora web. Comecei atuando como Full Stack e agora estou focando meus estudos e interesses no Back End (principalmente com Java). 
 
 :warning: Atenção: Portfólio em construção! :construction_worker_woman:
 
