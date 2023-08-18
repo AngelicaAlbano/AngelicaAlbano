@@ -20,7 +20,7 @@ Sou desenvolvedora web. Comecei atuando como Full Stack e agora estou focando me
 :warning: Atenção: Portfólio em construção! :construction_worker_woman:
 
 - :woman_technologist: Trabalhei com Java 8+ (SpringBoot e Jersey) e Angular (AngularJS e Angular 12+) e banco relacionais (PostgreSQL) como Full Stack
-- :woman_technologist: Trabalho com Java 8/11/15/17, mensageria (Kafka e RabbitMQ), programação reativa (Spring Webflux) e MongoDB em ambiente com BPMNs (Camunda) e motores (OpenL) 
+- :woman_technologist: Trabalho com Java 8+, mensageria (Kafka e RabbitMQ), programação reativa (Spring Webflux) e MongoDB em ambiente com BPMNs (Camunda) e motores (OpenL) 
 - :books: Estudando e aprofundando conhecimentos em Java, módulos do Spring, mensageria, microsserviços e Cloud
 - :handshake: Disponível para colaborar com projetos
 
