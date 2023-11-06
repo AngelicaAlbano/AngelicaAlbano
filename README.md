@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Sobre 
+### $whoami 
 ---
-Sou desenvolvedora web. Comecei atuando como Full Stack e agora estou focando meus estudos e interesses no Back End (principalmente com Java). 
+I am a web developer. I began my career as a Full Stack developer and now I'm focusing my studies and interests on Back End development, primarily with Java.
 
-:warning: Atenção: Portfólio em construção! :construction_worker_woman:
+:warning: Attention: Portfolio under construction! :construction_worker_woman:
 
-- :woman_technologist: Trabalhei com Java 8+ (SpringBoot e Jersey) e Angular (AngularJS e Angular 12+) e banco relacionais (PostgreSQL) como Full Stack
-- :woman_technologist: Trabalho com Java 8+, mensageria (Kafka e RabbitMQ), programação reativa (Spring Webflux) e MongoDB em ambiente com BPMNs (Camunda) e motores (OpenL) 
-- :books: Estudando e aprofundando conhecimentos em Java, módulos do Spring, mensageria, microsserviços e Cloud
-- :handshake: Disponível para colaborar com projetos
+- :woman_technologist: I have experience with Java 8+ (SpringBoot and Jersey) and Angular (AngularJS and Angular 12+), as well as relational databases (PostgreSQL) in my Full Stack roles.
+- :woman_technologist:  In my current work, I use Java 8+, messaging systems (Kafka and RabbitMQ), reactive programming (Spring Webflux), and MongoDB in environments involving BPMNs (Camunda) and engines (OpenL).
+- :books: EI am actively studying and deepening my knowledge in Java, Spring modules, messaging systems, microservices, and the Cloud.
+- :handshake: I am available to collaborate on projects.
 
 
 ### Stacks
@@ -42,7 +42,7 @@ Sou desenvolvedora web. Comecei atuando como Full Stack e agora estou focando me
 <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaalbano&layout=compact&hide=scss,html,css&hide_border=true&custom_title=Top+Linguagens&theme=graywhite" />&nbsp;<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=angelicaalbano&count_private=true&show_icons=true&theme=graywhite&hide_rank=true&hide=issues&card_width=350px&hide_border=true&custom_title=Estatísticas&icon_color=4c71f2&locale=pt-br" />
 </div>
 
-### Contato
+### Reach Out
 ---
 
 <a href="https://www.linkedin.com/in/angelica-albano/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white+)</a>
